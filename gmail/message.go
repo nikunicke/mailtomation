@@ -3,7 +3,7 @@ package gmail
 import (
 	"encoding/base64"
 
-	"github.com/mailtomation"
+	"github.com/nikunicke/mailtomation"
 	"google.golang.org/api/gmail/v1"
 )
 

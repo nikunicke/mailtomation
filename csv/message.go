@@ -5,7 +5,7 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/mailtomation"
+	"github.com/nikunicke/mailtomation"
 )
 
 type MessageService struct {

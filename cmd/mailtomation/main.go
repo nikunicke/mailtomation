@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/mailtomation/csv"
-	"github.com/mailtomation/gmail"
-	"github.com/mailtomation/oauth2"
+	"github.com/nikunicke/mailtomation/csv"
+	"github.com/nikunicke/mailtomation/gmail"
+	"github.com/nikunicke/mailtomation/oauth2"
 )
 
 func main() {
